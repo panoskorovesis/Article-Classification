@@ -10,7 +10,8 @@ Several Results are Presented from a Set of Articles regarding:
 ## Contents 
   
 Word Clouds (without stop-words) for each category
-  
+
+
 **TF-IDF** and **BagOfWords** text representations are feeded to:
 
 1. Support Vector Machines
@@ -20,3 +21,14 @@ Word Clouds (without stop-words) for each category
 3. Naive Bayes Classifier
 
 Train and Test results are produced
+
+
+**Clustering** of the  Data using Kmeans with the following text representations:
+
+1. TF-IDF
+
+2. BagOfWords
+
+3. Word2Vec
+
+Train and Test results and plots are produced
