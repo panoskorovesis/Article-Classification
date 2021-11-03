@@ -1,4 +1,4 @@
-# Data Mining Analysis from a series of Articles
+# Article Data Mining
 
 Several Results are Presented from a Set of Articles regarding:
   1. Business
